@@ -1,4 +1,6 @@
-![9h8dp2](https://github.com/user-attachments/assets/764209d7-4106-48f3-8d15-50d42d6f37dc)
+<div align = "center">
+  <img src = ![9h8dp2](https://github.com/user-attachments/assets/764209d7-4106-48f3-8d15-50d42d6f37dc) height = "220" alt = "streak graph"/>
+</div>
 
 
 # 💫 About Me:
