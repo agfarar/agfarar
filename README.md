@@ -1,3 +1,7 @@
+<div align = "center">
+  <img height = "200" src = "https://i.imgflip.com/65efzo.gif"/>
+</div>
+
 # 💫 About Me:
 🌱 **I’m currently working on**: Machine learning projects, DevOps pipelines, and building scalable full-stack applications.  <br>🤝 **I’m looking to collaborate on**: Open-source projects related to AI/ML, cloud automation, and modern web development.  <br>🛠️ **I’m looking for help with**: Advanced reinforcement learning and optimizing CI/CD workflows.  <br>📚 **I’m currently learning**: Kubernetes, deep learning frameworks, and microservices architecture.  <br>💬 **Ask me about**: Python, Docker, React, and MLOps best practices.  <br>⚡ **Fun fact**: I enjoy automating everything, even my coffee-making process!
 
